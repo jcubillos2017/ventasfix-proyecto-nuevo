@@ -4,21 +4,9 @@
 
         <!-- Name -->
         <div>
-            <x-input-label for="rut" value="RUT" />
-            <x-text-input id="rut" class="block mt-1 w-full" type="text" name="rut" :value="old('rut')" required autofocus autocomplete="rut" />
-            <x-input-error :messages="$errors->get('rut')" class="mt-2" />  
-        </div>
-
-        <div class="mt-4">
-            <x-input-label for="nombre" value="Nombre" />
-            <x-text-input id="nombre" class="block mt-1 w-full" type="text" name="nombre" :value="old('nombre')" required autocomplete="nombre" />
-            <x-input-error :messages="$errors->get('nombre')" class="mt-2" />
-        </div>
-
-        <div class="mt-4">
-            <x-input-label for="apellido" value="Apellido" />
-            <x-text-input id="apellido" class="block mt-1 w-full" type="text" name="apellido" :value="old('apellido')" required autocomplete="apellido" />
-            <x-input-error :messages="$errors->get('apellido')" class="mt-2" />
+            <x-input-label for="name" :value="__('Name')" />
+            <x-text-input id="name" class="block mt-1 w-full" type="text" name="name" :value="old('name')" required autofocus autocomplete="name" />
+            <x-input-error :messages="$errors->get('name')" class="mt-2" />
         </div>
 
         <!-- Email Address -->
@@ -52,7 +40,7 @@
         </div>
 
         <div class="flex items-center justify-end mt-4">
-            <a class="underline text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800" href="{{ route('login') }}">
+            <a class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" href="{{ route('login') }}">
                 {{ __('Already registered?') }}
             </a>
 

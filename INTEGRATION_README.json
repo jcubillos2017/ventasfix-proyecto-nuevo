@@ -1,0 +1,40 @@
+{
+  "selected_html": "template/vuexy-bootstrap-html-admin-template/html/horizontal-menu-template/index.html",
+  "css_used": [
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/fonts/fontawesome.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/fonts/tabler-icons.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/fonts/flag-icons.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/css/rtl/core.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/css/rtl/theme-default.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/css/demo.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/node-waves/node-waves.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/typeahead-js/typeahead.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/apex-charts/apex-charts.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/swiper/swiper.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/datatables-bs5/datatables.bootstrap5.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/datatables-checkboxes-jquery/datatables.checkboxes.css",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/css/pages/cards-advance.css"
+  ],
+  "js_used": [
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/js/helpers.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/js/template-customizer.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/js/config.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/jquery/jquery.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/popper/popper.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/js/bootstrap.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/node-waves/node-waves.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/hammer/hammer.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/i18n/i18n.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/typeahead-js/typeahead.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/js/menu.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/apex-charts/apexcharts.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/swiper/swiper.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/vendor/libs/datatables-bs5/datatables-bootstrap5.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/js/main.js",
+    "template/vuexy-bootstrap-html-admin-template/assets/js/dashboards-analytics.js"
+  ]
+ 
+}
